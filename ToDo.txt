@@ -1,0 +1,18 @@
+#TODO General
+#Done       Git version
+#TODO       trunk-based development
+
+#TODO flask app
+#Done       flask producer rest api
+#Done       read from sqlserver
+#TODO       flask feature flag/toggle
+#TODO       flask docker
+
+
+#TODO node app
+#TODO       node consumer api
+#TODO       node write to sqlserver
+#TODO       node docker
+
+
+
